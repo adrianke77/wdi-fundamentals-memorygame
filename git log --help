@@ -1,0 +1,68 @@
+[33mcommit 9ab8148f27360b15b37c047d69d7564d8e141aec[m
+Author: Adrian Ke <adrianke77@gmail.com>
+Date:   Wed Nov 16 16:44:10 2016 +0800
+
+    --help
+
+[33mcommit 50361a75386624dcec67753066167ab51e8b1903[m
+Author: Jeanny Vaidya <jeanny.vaidya@generalassemb.ly>
+Date:   Mon Apr 18 10:54:52 2016 -0400
+
+    Update index.html
+
+[33mcommit 81bc7433fe754b8bd7c64a079d4f1c98e03dafa4[m
+Author: Jeanny Vaidya <jeanny.vaidya@generalassemb.ly>
+Date:   Mon Apr 18 10:52:02 2016 -0400
+
+    Update index.html
+
+[33mcommit 13e461017cdbdf391f4d87e92ad3ad605aba1f40[m
+Author: Jeanny Vaidya <jeanny.vaidya@generalassemb.ly>
+Date:   Mon Apr 18 10:43:32 2016 -0400
+
+    starter code html
+
+[33mcommit 4eb3e45ec5e056d19e2d9f21a69645b33916b86c[m
+Author: Jeanny Vaidya <jeanny.vaidya@generalassemb.ly>
+Date:   Mon Apr 18 10:40:32 2016 -0400
+
+    Update style.css
+
+[33mcommit 4af33a59e6ea7bf0c6ded6cb5db19674dfcfef69[m
+Author: Jeanny Vaidya <jeanny.vaidya@generalassemb.ly>
+Date:   Mon Apr 18 10:38:33 2016 -0400
+
+    Update index.html
+
+[33mcommit 87a918bccb2781a6de2fc6ebfc38a8867545d2cd[m
+Merge: c499f4c 8780547
+Author: Jeanny Vaidya <jeanny.vaidya@generalassemb.ly>
+Date:   Wed Mar 16 13:12:51 2016 -0400
+
+    Merge pull request #2 from ga-students/qa-from-jay
+    
+    recommended changes to readme
+
+[33mcommit 87805475a4ee4c0e2aa20fa2058734952c1eeb62[m
+Author: Jay <jpnappy@gmail.com>
+Date:   Mon Mar 14 13:33:38 2016 -0400
+
+    recommended changes to readme
+
+[33mcommit c499f4c990a40c9016c528c5a6e12525387f0cfa[m
+Author: Jeanny Vaidya <jeanny.vaidya@generalassemb.ly>
+Date:   Tue Mar 8 14:23:47 2016 -0500
+
+    Update README.md
+
+[33mcommit 72a92743250bfa68bc8447422b2f64fee8e2faf2[m
+Author: alexander <ag.saldivar@gmail.com>
+Date:   Sun Mar 6 09:11:02 2016 -0800
+
+    create starter and solution code
+
+[33mcommit d539e244679974a1471fbaf0f7fc8e6027884bf5[m
+Author: Jeanny Vaidya <jeanny.vaidya@generalassemb.ly>
+Date:   Sat Mar 5 15:00:19 2016 -0500
+
+    Initial commit
