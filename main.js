@@ -1,8 +1,11 @@
-var cardOne = "queen"
-var cardTwo = "queen"
-var cardThree = "king"
-var cardFour = "king"
+var board = document.getElementById('game-board');
 
-if (cardTwo===cardFour) {
-alert('You found a match!')
+var createCards = function(noOfCards){
+	for (i=0; i<noOfCards; i++ ) {
+	var newCard = document.createElement('div');
+    newCard.setAttribute('class','card');
+	board.appendChild(newCard);
+	}
 }
+
+createCards(4);
